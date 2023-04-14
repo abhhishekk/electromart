@@ -106,10 +106,10 @@
    	  <div class="col-md-3 pb-5">
             <div class="mylist list-group">
               <a href="liveorders.php" class="list-group-item">New Orders</a>
-              <a href="mview.php" class="list-group-item">View Food Items</a>
-              <a href="madd.php" class="list-group-item ">Add Food Items</a>
-              <a href="medit.php" class="list-group-item ">Edit Food Items</a>
-              <a href="mdelete.php" class="list-group-item ">Delete Food Items</a>
+              <a href="mview.php" class="list-group-item">View Products</a>
+              <a href="madd.php" class="list-group-item ">Add Products</a>
+              <a href="medit.php" class="list-group-item ">Edit Products</a>
+              <a href="mdelete.php" class="list-group-item ">Delete Products</a>
               <a href="delivperson.php" class="list-group-item active">Delivery Personnels</a>
             </div>    
       </div>
